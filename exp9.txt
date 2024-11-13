@@ -5,5 +5,8 @@ welcome to cse
 welcome to class
 good morning
 good evening
+<<<<<<< HEAD
 wednesday
 bye
+=======
+>>>>>>> parent of 9f05b04 (done)

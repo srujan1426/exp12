@@ -6,3 +6,4 @@ welcome to class
 good morning
 good evening
 wednesday
+bye
